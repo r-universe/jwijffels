@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dlib"]
-	path = dlib
-	url = https://github.com/cran/dlib
 [submodule "ETLUtils"]
 	path = ETLUtils
 	url = https://github.com/jwijffels/etlutils
@@ -14,6 +11,9 @@
 [submodule "RMOAjars"]
 	path = RMOAjars
 	url = https://github.com/cran/RMOAjars
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/cran/dlib
 [submodule "topicmodels.etm"]
 	path = topicmodels.etm
 	url = https://github.com/cran/topicmodels.etm
