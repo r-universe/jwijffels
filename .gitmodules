@@ -14,6 +14,3 @@
 [submodule "dlib"]
 	path = dlib
 	url = https://github.com/cran/dlib
-[submodule "topicmodels.etm"]
-	path = topicmodels.etm
-	url = https://github.com/cran/topicmodels.etm
